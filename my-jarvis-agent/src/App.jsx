@@ -14,8 +14,7 @@ const App = () => {
   // const [errorMessage, setErrorMessage] = useState('');
 
   // Constants for API interaction
-  const API_KEY = "AIzaSyA4l0PKxgzjvKz0DWXIi17ON1LEL4V24qc"; // The API key is handled by the canvas environment
-  const MODEL_NAME = "gemini-2.5-flash-preview-05-20";
+  
 
   // Effect to scroll to the bottom of the chat window whenever the chat history updates
   useEffect(() => {
